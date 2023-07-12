@@ -14,7 +14,7 @@ All calculations can be made.
 
 # Hesap Makinesi
 ### Projenin amacı:
-matamatiksel tüm işlemlerin yapılmasını sağlayacak bir hesap makinesi yapmak
+matematiksel tüm işlemlerin yapılmasını sağlayacak bir hesap makinesi yapmak
 
 ### Proje yapılış aşamaları
 her bir buttonun içine birer rakam ve matematik işlemlerinin yapıldığı semboller yerleştirildi,
