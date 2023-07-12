@@ -12,7 +12,7 @@ All calculations can be made.
 
 
 
-# Hesap Makinasi
+# Hesap Makinesi
 ### Projenin amacı:
 matamatiksel tüm işlemlerin yapılmasını sağlayacak bir hesap makinesi yapmak
 
